@@ -9,4 +9,6 @@ w00-170212-21-LR-About: Operating System Structure, From: OSC2E Slide ch2
 w01-170214-10-LR-About: Copyright, Types of software, From: Lecturer
 w01-170216-10-LR-About: Regular Expression, From: Lecturer
 w01-170216-14-PS-About: Lab Week01 Session
+w02-170221-10-LR-About: Protection, Security, Public and Private Keys, From: Lecturer
+w02-170220-20-PS-About: Lab Week02 Session
 
