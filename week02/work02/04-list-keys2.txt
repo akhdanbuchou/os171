@@ -1,0 +1,10 @@
+/home/fasilkom/mahasiswa/m/muhammad.akhdan/.gnupg/pubring.gpg
+-------------------------------------------------------------
+pub   4096R/C409348F 2017-02-20 [expires: 2017-08-19]
+uid                  Muhammad Akhdan Shidqi ("OS is rather an interesting lecture for me") <akhdanem@gmail.com>
+sub   4096R/ABCFEAF1 2017-02-20 [expires: 2017-08-19]
+
+pub   4096R/BD4AD71E 2016-09-12 [expires: 2017-03-11]
+uid                  Os Team (OSTEAM) <osteam@localhost>
+sub   4096R/937D25BA 2016-09-12 [expires: 2017-03-11]
+
