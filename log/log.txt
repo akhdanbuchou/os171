@@ -23,4 +23,11 @@ w04-170312-20-PS-About: Pointer Practice
 w05-170314-10-LR-About: Memory Intro ,  From Lecturer
 w05-170316-10-LR-About: Terminologies in Memory Process and the usage of Memory,  From Lecturer
 w05-170318-09-PS-About: Lab Week05 Session
+w06-170406-10-LR-About: Fundamental of Process, From Lecturer
+w06-170406-11-DS-About: Fork in Process, With Friends
+w06-170410-21-LR-About: Fork in Process, From: OSCE
+w06-170410-22-PS-About: Fork in PRocess
+w06-170411-10-LR-About: Fork Practice, From Lecturer
+w06-170413-10-LR-About: Threads, From Lecturer
+w06-170415-09-PS-About: Lab Week06 Session
 
